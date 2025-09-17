@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1758123829,
+	"version": 1758141205,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,8 +32,11 @@
 		"images/personaje-sheet0.png",
 		"images/moneda-sheet0.png",
 		"images/camara-sheet0.png",
-		"images/sprite-sheet0.png",
+		"images/hud-sheet0.png",
 		"images/spritefont.png",
+		"images/puerta1-sheet0.png",
+		"images/puerta2-sheet0.png",
+		"images/tiledbackground.png",
 		"media/golpe.m4a",
 		"media/golpe.ogg",
 		"media/muerte.m4a",
