@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1761166321,
+	"version": 1761747611,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,6 +23,16 @@
 		"images/humo-sheet0.png",
 		"images/humo2-sheet0.png",
 		"images/humo2-sheet1.png",
+		"images/titulo1-sheet0.png",
+		"images/titulo1-sheet1.png",
+		"images/titulo2-sheet0.png",
+		"images/titulo2-sheet1.png",
+		"images/boton1-sheet0.png",
+		"images/boton2-sheet0.png",
+		"images/titulo3-sheet0.png",
+		"images/titulo4-sheet0.png",
+		"images/boton3-sheet0.png",
+		"images/spritefont2.png",
 		"media/boom.m4a",
 		"media/boom.ogg",
 		"media/gameover.m4a",
